@@ -1,0 +1,46 @@
+Requested_Graph,Status,Reason
+Training loss vs epochs,Unavailable,Training histories are not saved; the original training code returns no epoch history.
+Validation loss vs epochs,Unavailable,Training histories are not saved; the original training code returns no epoch history.
+Training accuracy vs epochs,Unavailable,Training histories are not saved; the original training code returns no epoch history.
+Validation accuracy vs epochs,Unavailable,Training histories are not saved; the original training code returns no epoch history.
+Training vs validation loss,Unavailable,The saved artifacts do not contain the scores or repeated results required.
+Training vs validation accuracy,Unavailable,The saved artifacts do not contain the scores or repeated results required.
+Learning curves,Unavailable,Training histories are not saved; the original training code returns no epoch history.
+One-vs-rest / macro / micro ROC curves,Unavailable,Per-sample class probabilities or ranking scores are not saved.
+Precision-recall / macro / micro curves,Unavailable,Per-sample class probabilities or ranking scores are not saved.
+DET curves,Unavailable,Per-sample class probabilities or ranking scores are not saved.
+CAP curves,Unavailable,Per-sample class probabilities or ranking scores are not saved.
+Cumulative gain curves,Unavailable,Per-sample class probabilities or ranking scores are not saved.
+Lift curves,Unavailable,Per-sample class probabilities or ranking scores are not saved.
+Confusion matrix heatmaps,Generated,Derived from saved confusion matrices or source-dataset features.
+Normalized confusion matrix heatmaps,Generated,Derived from saved confusion matrices or source-dataset features.
+Calibration and reliability diagrams,Unavailable,Per-sample class probabilities or ranking scores are not saved.
+SHAP summary plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+SHAP feature importance plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+SHAP dependence plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+SHAP waterfall plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+LIME explanation plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+Feature importance graphs,Unavailable,Fitted estimators and per-row explanations are not saved.
+Feature interaction plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+Correlation heatmaps,Generated,Derived from saved confusion matrices or source-dataset features.
+Feature distribution histograms,Generated,Derived from saved confusion matrices or source-dataset features.
+Box plots,Generated,Derived from saved confusion matrices or source-dataset features.
+Violin plots,Generated,Derived from saved confusion matrices or source-dataset features.
+Pair plots,Generated,Derived from saved confusion matrices or source-dataset features.
+PCA 2D visualizations,Generated,Derived from saved confusion matrices or source-dataset features.
+t-SNE 2D visualizations,Generated,Derived from saved confusion matrices or source-dataset features.
+UMAP visualizations,Unavailable,UMAP is not installed and no existing UMAP coordinates are saved.
+Fertilizer class distribution graphs,Generated,Derived from saved confusion matrices or source-dataset features.
+"Class-wise precision, recall and F1 graphs",Generated,Derived from saved confusion matrices or source-dataset features.
+Prediction error distributions,Unavailable,Per-row predictions are not saved; aggregate confusion counts cannot recover individual errors.
+Noise robustness curves,Unavailable,No predictions from the requested noise conditions are saved.
+Accuracy vs noise level,Unavailable,No predictions from the requested noise conditions are saved.
+Macro F1 vs noise level,Unavailable,No predictions from the requested noise conditions are saved.
+Performance degradation curves,Unavailable,No predictions from the requested noise conditions are saved.
+Feature sensitivity plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+Prediction confidence distributions,Unavailable,Per-sample class probabilities or ranking scores are not saved.
+Prediction entropy distributions,Unavailable,Per-sample class probabilities or ranking scores are not saved.
+Model performance comparison bar charts,Generated,Derived from saved confusion matrices or source-dataset features.
+Model performance comparison box plots,Unavailable,Only one saved run per method is available; a performance distribution requires repeated runs.
+Training time comparisons,Unavailable,Per-method training and inference timing was not saved in the available result tables.
+Inference time comparisons,Unavailable,Per-method training and inference timing was not saved in the available result tables.

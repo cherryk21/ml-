@@ -1,0 +1,1 @@
+C1 uses agronomic feature engineering based on NPK balance, pH stress, and weather interactions. No synthetic training curves were created; the project exports preserved metrics only.

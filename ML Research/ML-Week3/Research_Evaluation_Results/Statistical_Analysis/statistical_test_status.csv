@@ -1,0 +1,5 @@
+Test,Status,Reason
+Paired t-test,Not applicable,The preserved outputs do not include paired per-sample predictions needed for exact paired statistical testing.
+Wilcoxon signed-rank,Not applicable,Per-sample paired predictions are unavailable in the exported result files.
+Friedman test,Not applicable,The evaluation uses a small number of contribution-level summaries rather than repeated matched-sample observations.
+McNemar test,Not applicable,The required paired classification outcome matrices are not present in the saved outputs.

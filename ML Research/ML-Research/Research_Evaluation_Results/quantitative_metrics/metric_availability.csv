@@ -1,0 +1,36 @@
+Metric,Status,Reason
+Accuracy,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Precision,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Recall,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+F1-score,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Macro F1,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Weighted F1,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Micro F1,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Balanced Accuracy,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+MCC,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Cohen’s Kappa,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Sensitivity,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Specificity,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+ROC-AUC,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+PR-AUC,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Top-1 Accuracy,Computed from saved confusion matrices,Confusion matrices contain sufficient hard-label counts.
+Top-2 Accuracy,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Top-3 Accuracy,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+MAP@K,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+MRR,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Log Loss,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Brier Score,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+ECE,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Training time,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Inference time,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Memory consumption,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Convergence performance,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Generalization gap,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Cross-validation scores,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+Mean and SD across random seeds,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+0% noise robustness,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+10% noise robustness,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+20% noise robustness,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+30% noise robustness,Unavailable,"The current saved artifacts do not contain the scores, timing, memory, histories, folds, seeds, or noise-condition outputs required."
+"Bootstrap 95% confidence intervals (accuracy, macro/weighted F1, balanced accuracy)",Computed,Stratified bootstrap from saved confusion-matrix rows; uncertainty is not paired across methods.
+Paired t-tests / Wilcoxon / Friedman / McNemar,Unavailable,Per-sample paired predictions or repeated fold/seed scores are not saved.

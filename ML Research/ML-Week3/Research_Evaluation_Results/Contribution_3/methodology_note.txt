@@ -1,0 +1,1 @@
+C3 applies the gated residual classifier with class-balanced learning. Epoch-wise curves are not generated because the project does not expose per-epoch history in the preserved outputs.

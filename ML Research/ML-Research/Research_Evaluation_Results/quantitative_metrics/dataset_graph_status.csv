@@ -1,0 +1,7 @@
+Requested_Output,Status,Reason,Path
+PCA 2D visualization,Generated,Exploratory projection of source features; not a model evaluation.,qualitative_graphs\Dataset_1_Crop_Fertilizer_Fertilizer
+t-SNE 2D visualization,Generated,Exploratory projection of source features; not a model evaluation.,qualitative_graphs\Dataset_1_Crop_Fertilizer_Fertilizer
+PCA 2D visualization,Generated,Exploratory projection of source features; not a model evaluation.,qualitative_graphs\Dataset_1_Crop_Fertilizer_Crop
+t-SNE 2D visualization,Generated,Exploratory projection of source features; not a model evaluation.,qualitative_graphs\Dataset_1_Crop_Fertilizer_Crop
+PCA 2D visualization,Generated,Exploratory projection of source features; not a model evaluation.,qualitative_graphs\Dataset_2_Crop_Recommendation_label
+t-SNE 2D visualization,Generated,Exploratory projection of source features; not a model evaluation.,qualitative_graphs\Dataset_2_Crop_Recommendation_label

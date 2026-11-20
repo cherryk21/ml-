@@ -1,0 +1,22 @@
+              precision    recall  f1-score   support
+
+      Cotton       1.00      1.00      1.00       195
+      Ginger       1.00      1.00      1.00        38
+        Gram       1.00      1.00      1.00        23
+      Grapes       1.00      1.00      1.00        37
+   Groundnut       1.00      1.00      1.00        53
+       Jowar       1.00      1.00      1.00       118
+       Maize       1.00      1.00      1.00       105
+      Masoor       1.00      1.00      1.00         4
+       Moong       1.00      1.00      1.00        30
+        Rice       1.00      1.00      1.00        93
+     Soybean       1.00      1.00      1.00        13
+   Sugarcane       1.00      1.00      1.00       303
+         Tur       0.97      1.00      0.99        38
+    Turmeric       1.00      1.00      1.00        16
+        Urad       1.00      0.97      0.98        30
+       Wheat       1.00      1.00      1.00       258
+
+    accuracy                           1.00      1354
+   macro avg       1.00      1.00      1.00      1354
+weighted avg       1.00      1.00      1.00      1354

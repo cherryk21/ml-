@@ -1,0 +1,17 @@
+,Predicted_Cotton,Predicted_Ginger,Predicted_Gram,Predicted_Grapes,Predicted_Groundnut,Predicted_Jowar,Predicted_Maize,Predicted_Masoor,Predicted_Moong,Predicted_Rice,Predicted_Soybean,Predicted_Sugarcane,Predicted_Tur,Predicted_Turmeric,Predicted_Urad,Predicted_Wheat
+Actual_Cotton,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Actual_Ginger,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Actual_Gram,0,0,13,0,1,0,0,0,0,0,0,0,2,0,0,0
+Actual_Grapes,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+Actual_Groundnut,0,0,1,0,33,1,0,0,0,0,0,0,0,0,0,0
+Actual_Jowar,0,0,0,0,3,70,0,0,5,0,0,0,0,0,1,0
+Actual_Maize,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0
+Actual_Masoor,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Actual_Moong,0,0,0,0,0,1,0,0,19,0,0,0,0,0,0,0
+Actual_Rice,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0
+Actual_Soybean,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Actual_Sugarcane,0,0,0,0,0,0,0,0,0,0,0,202,0,0,0,0
+Actual_Tur,0,0,1,0,1,2,0,1,0,0,0,0,19,0,1,0
+Actual_Turmeric,0,0,0,0,0,1,0,0,0,0,0,0,0,10,0,0
+Actual_Urad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+Actual_Wheat,0,0,0,0,0,4,1,0,0,2,0,0,0,0,0,165

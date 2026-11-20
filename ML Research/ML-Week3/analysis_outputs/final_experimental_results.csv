@@ -1,0 +1,10 @@
+Paper,Dataset,Target,Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+Paper 1 - Gated Residual Tabular Neural Network,Dataset 1 (Crop & Fertilizer),Crop,CD-ResTabNet,0.9900332225913622,0.9848257525520456,0.9706457051650881,0.9763990116014059
+Paper 2 - Uncertainty-Aware Dual-Branch Fusion,Dataset 1 (Crop & Fertilizer),Crop,Adaptive NN-XGBoost Fusion,0.9867109634551495,0.9864653567754398,0.9664085506045323,0.9744202249809194
+Paper 3 - Agronomic Feature-Enhanced XGBoost,Dataset 1 (Crop & Fertilizer),Crop,XGBoost Classifier,0.9811738648947951,0.9780718271816473,0.9565995542211689,0.9648109393720642
+Paper 1 - Gated Residual Tabular Neural Network,Dataset 1 (Crop & Fertilizer),Fertilizer,CD-ResTabNet,0.6910299003322259,0.6310515433873549,0.5986146494532186,0.6046133695703695
+Paper 2 - Uncertainty-Aware Dual-Branch Fusion,Dataset 1 (Crop & Fertilizer),Fertilizer,Adaptive NN-XGBoost Fusion,0.6921373200442967,0.6682263462871507,0.5876550233049518,0.6128410990593971
+Paper 3 - Agronomic Feature-Enhanced XGBoost,Dataset 1 (Crop & Fertilizer),Fertilizer,XGBoost Classifier,0.6135105204872646,0.6109919098132784,0.5884144877146538,0.593972224250901
+Paper 1 - Gated Residual Tabular Neural Network,Dataset 2 (Crop Recommendation),label,CD-ResTabNet,0.9931818181818182,0.9937032664305392,0.993181818181818,0.9931690047222781
+Paper 2 - Uncertainty-Aware Dual-Branch Fusion,Dataset 2 (Crop Recommendation),label,Adaptive NN-XGBoost Fusion,0.9954545454545455,0.9956709956709957,0.9954545454545454,0.9954517027687758
+Paper 3 - Agronomic Feature-Enhanced XGBoost,Dataset 2 (Crop Recommendation),label,XGBoost Classifier,0.990909090909091,0.9912337662337662,0.9909090909090907,0.9909048268804366

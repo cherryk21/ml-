@@ -1,0 +1,37 @@
+Dataset,Target,Model,Metric,Recomputed,Saved,Difference,Matches_At_Saved_Precision
+Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model,Accuracy,0.9630723781388478,0.963072,3.7813884778969964e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model,Macro_Precision,0.9305835550781809,0.930584,-4.449218190538673e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model,Macro_Recall,0.9104382318046846,0.910438,2.3180468466943438e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model,Macro_F1,0.9182407814424566,0.918241,-2.185575433966136e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net,Accuracy,0.9187592319054653,0.918759,2.3190546527551703e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net,Macro_Precision,0.8562282988952616,0.856228,2.9889526165227664e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net,Macro_Recall,0.8380681045191701,0.838068,1.0451917009657308e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net,Macro_F1,0.836826344338629,0.836826,3.443386290546968e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble,Accuracy,0.9438700147710487,0.94387,1.4771048717499013e-08,True
+Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble,Macro_Precision,0.8636807709434162,0.863681,-2.290565838114489e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble,Macro_Recall,0.8503108752845183,0.850311,-1.2471548171966162e-07,True
+Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble,Macro_F1,0.8547496652010644,0.85475,-3.347989355750869e-07,False
+Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model,Accuracy,0.5,0.5,0.0,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model,Macro_Precision,0.4224451097090801,0.422445,1.0970908009833025e-07,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model,Macro_Recall,0.39175340275427234,0.391753,4.027542723217259e-07,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model,Macro_F1,0.39303483198195627,0.393035,-1.6801804375576879e-07,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net,Accuracy,0.42688330871491875,0.426883,3.0871491873973866e-07,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net,Macro_Precision,0.2836521920264434,0.283652,1.9202644335747365e-07,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net,Macro_Recall,0.29563865234604453,0.295639,-3.476539554569946e-07,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net,Macro_F1,0.2815938255234434,0.281594,-1.7447655659141859e-07,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble,Accuracy,0.4379615952732644,0.437962,-4.0472673562552686e-07,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble,Macro_Precision,0.4078279536428294,0.407828,-4.635717060219591e-08,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble,Macro_Recall,0.3879381719550711,0.387938,1.7195507107103936e-07,True
+Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble,Macro_F1,0.38632059307412264,0.386321,-4.0692587738311303e-07,True
+Dataset 2 (Crop Recommendation),label,1D-CNN Model,Accuracy,0.8939393939393939,0.893939,3.939393938834357e-07,True
+Dataset 2 (Crop Recommendation),label,1D-CNN Model,Macro_Precision,0.8991698381184731,0.89917,-1.6188152696106073e-07,True
+Dataset 2 (Crop Recommendation),label,1D-CNN Model,Macro_Recall,0.8939393939393938,0.893939,3.939393937724134e-07,True
+Dataset 2 (Crop Recommendation),label,1D-CNN Model,Macro_F1,0.8935307251651146,0.893531,-2.748348854053617e-07,True
+Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net,Accuracy,0.9075757575757576,0.907576,-2.42424242458128e-07,True
+Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net,Macro_Precision,0.9117047465885748,0.911705,-2.5341142517731896e-07,True
+Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net,Macro_Recall,0.9075757575757577,0.907576,-2.424242423471057e-07,True
+Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net,Macro_F1,0.907290384614991,0.90729,3.846149909669805e-07,True
+Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble,Accuracy,0.8560606060606061,0.856061,-3.939393938834357e-07,True
+Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble,Macro_Precision,0.8620022337655899,0.862002,2.3376558988541518e-07,True
+Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble,Macro_Recall,0.856060606060606,0.856061,-3.93939393994458e-07,True
+Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble,Macro_F1,0.8570776168403668,0.857078,-3.83159633243757e-07,True

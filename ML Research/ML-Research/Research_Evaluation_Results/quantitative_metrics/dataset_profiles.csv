@@ -1,0 +1,4 @@
+Dataset_Key,Dataset,Source_File,Target,Rows,Predictor_Count,Numeric_Predictor_Count,Categorical_Predictor_Count,Target_Class_Count,Missing_Predictor_Cells,Missing_Target_Values,Majority_Class,Majority_Class_Share
+Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop and fertilizer dataset.csv,Fertilizer,4513,8,6,2,19,0,0,Urea,0.302237979171283
+Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop and fertilizer dataset.csv,Crop,4513,8,6,2,16,0,0,Sugarcane,0.22379791712829603
+Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),Crop_recommendation.csv,label,2200,7,7,0,22,0,0,rice,0.045454545454545456

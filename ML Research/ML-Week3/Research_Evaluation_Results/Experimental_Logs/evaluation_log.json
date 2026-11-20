@@ -1,0 +1,11 @@
+{
+  "source_outputs": [
+    "C:\\Users\\asus\\OneDrive\\Desktop\\ML Research\\ML-Week3\\analysis_outputs\\all_benchmark_results.csv",
+    "C:\\Users\\asus\\OneDrive\\Desktop\\ML Research\\ML-Week3\\analysis_outputs\\ablation_study_results.csv",
+    "C:\\Users\\asus\\OneDrive\\Desktop\\ML Research\\ML-Week3\\analysis_outputs\\four_contribution_experimental_results.csv"
+  ],
+  "created_outputs": [
+    "C:\\Users\\asus\\OneDrive\\Desktop\\ML Research\\ML-Week3\\Research_Evaluation_Results"
+  ],
+  "evaluation_note": "This process reads existing saved results and preserves the original project implementation and datasets."
+}

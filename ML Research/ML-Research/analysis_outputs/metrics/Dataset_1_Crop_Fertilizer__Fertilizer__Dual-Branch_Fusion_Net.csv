@@ -1,0 +1,2 @@
+Paper,Dataset,Target,Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+Paper 2 - Sentinel Data Fusion Network,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net,0.3914,0.2695,0.5416,0.3386

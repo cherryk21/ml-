@@ -1,0 +1,39 @@
+{
+  "dataset_1": {
+    "dataset": "Dataset 1 (Crop & Fertilizer)",
+    "file": "Crop and fertilizer dataset(3).csv",
+    "original_rows": 4513,
+    "rows_used": 4513,
+    "duplicates_detected": 0,
+    "columns": [
+      "District_Name",
+      "Soil_color",
+      "Nitrogen",
+      "Phosphorus",
+      "Potassium",
+      "pH",
+      "Rainfall",
+      "Temperature",
+      "Crop",
+      "Fertilizer",
+      "Link"
+    ]
+  },
+  "dataset_2": {
+    "dataset": "Dataset 2 (Crop Recommendation)",
+    "file": "Crop_recommendation.csv",
+    "original_rows": 2200,
+    "rows_used": 2200,
+    "duplicates_detected": 0,
+    "columns": [
+      "N",
+      "P",
+      "K",
+      "temperature",
+      "humidity",
+      "ph",
+      "rainfall",
+      "label"
+    ]
+  }
+}

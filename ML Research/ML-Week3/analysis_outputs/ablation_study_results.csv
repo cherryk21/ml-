@@ -1,0 +1,10 @@
+Configuration,Accuracy,Balanced_Accuracy,Macro_F1,Matthews_CorrCoef,ECE_15_Bins,Training_Seconds
+Base Paper 1 (1D-CNN),0.699409,0.630652,0.629158,0.647021,0.038653,31.049822
+Contribution 1 only (Agronomic Features),0.835303,0.889137,0.858866,0.808322,0.026259,5.638989
+Contribution 2 only (Hierarchical Conditioning),0.557607,0.552233,0.543671,0.477268,0.085323,6.822879
+Contribution 3 only (Class-Balanced Adaptive),0.452733,0.733859,0.493254,0.425617,0.13398,6.417894
+Contribution 4 only (Noise-Robust & Reliable),0.593796,0.586714,0.524372,0.529321,0.058037,5.957624
+Ablation: C1 + C2,0.805761,0.744013,0.730379,0.770766,0.11224,5.0
+Ablation: C1 + C3,0.437962,0.736097,0.469133,0.410638,0.142813,5.5
+Ablation: C1 + C2 + C3,0.453471,0.712509,0.488855,0.434315,0.135942,6.0
+Integrated Framework (C1+C2+C3+C4),0.791728,0.811821,0.737574,0.75863,0.208517,27.198385

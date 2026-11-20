@@ -1,0 +1,4 @@
+Dataset,Target,Method_Count,Test_Sample_Counts,Actual_Class_Supports_Match,Evidence
+Dataset 1 (Crop & Fertilizer),Crop,3,1354;1354;1354,True,Original training script passes the same y_test and test-loader to each method in a target suite; saved row-support vectors match.
+Dataset 1 (Crop & Fertilizer),Fertilizer,3,1354;1354;1354,True,Original training script passes the same y_test and test-loader to each method in a target suite; saved row-support vectors match.
+Dataset 2 (Crop Recommendation),label,3,660;660;660,True,Original training script passes the same y_test and test-loader to each method in a target suite; saved row-support vectors match.

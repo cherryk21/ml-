@@ -1,0 +1,9 @@
+Requested_Graph,Status,Reason
+SHAP summary plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+SHAP feature importance plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+SHAP dependence plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+SHAP waterfall plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+LIME explanation plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+Feature importance graphs,Unavailable,Fitted estimators and per-row explanations are not saved.
+Feature interaction plots,Unavailable,Fitted estimators and per-row explanations are not saved.
+Feature sensitivity plots,Unavailable,Fitted estimators and per-row explanations are not saved.

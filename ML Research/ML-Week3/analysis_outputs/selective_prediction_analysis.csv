@@ -1,0 +1,5 @@
+Dataset,Target,Coverage_Percentage,Selective_Accuracy,Selective_Risk
+Dataset 1 (Crop & Fertilizer),Fertilizer,100,0.5937961595273265,0.40620384047267355
+Dataset 1 (Crop & Fertilizer),Fertilizer,95,0.604199066874028,0.395800933125972
+Dataset 1 (Crop & Fertilizer),Fertilizer,90,0.6198686371100164,0.3801313628899836
+Dataset 1 (Crop & Fertilizer),Fertilizer,80,0.6435826408125577,0.35641735918744233

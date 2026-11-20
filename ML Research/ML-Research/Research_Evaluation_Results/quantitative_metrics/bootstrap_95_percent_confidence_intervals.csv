@@ -1,0 +1,37 @@
+Dataset,Target,Model,Metric,Bootstrap_Replicates,Confidence_Level,CI_Lower,CI_Upper,Method
+Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model,Accuracy,1000,0.95,0.9534711964549483,0.9719350073855244,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model,Macro_F1,1000,0.95,0.8865508824250946,0.9437027144893986,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model,Weighted_F1,1000,0.95,0.9526723689921245,0.9713132259513948,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model,Balanced_Accuracy,1000,0.95,0.872576671721521,0.9410323996134478,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net,Accuracy,1000,0.95,0.9047267355982275,0.9327917282127031,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net,Macro_F1,1000,0.95,0.7964145392913149,0.8696610094696736,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net,Weighted_F1,1000,0.95,0.9053076550786475,0.93327414649062,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net,Balanced_Accuracy,1000,0.95,0.7950469467497902,0.8737141060708138,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble,Accuracy,1000,0.95,0.9335302806499262,0.9542097488921714,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble,Macro_F1,1000,0.95,0.8154266565716431,0.8871432026190588,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble,Weighted_F1,1000,0.95,0.932127359587517,0.952873536210534,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble,Balanced_Accuracy,1000,0.95,0.810524301681162,0.889286762256423,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model,Accuracy,1000,0.95,0.47560930576070903,0.5243722304283605,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model,Macro_F1,1000,0.95,0.3514690682808299,0.42794342206826047,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model,Weighted_F1,1000,0.95,0.4718236809507906,0.5212574470651526,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model,Balanced_Accuracy,1000,0.95,0.35482787430973295,0.4283096649818759,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net,Accuracy,1000,0.95,0.40398818316100443,0.4519940915805022,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net,Macro_F1,1000,0.95,0.2508601418177481,0.30955108297321077,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net,Weighted_F1,1000,0.95,0.3857641117145814,0.4340428310926231,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net,Balanced_Accuracy,1000,0.95,0.264395980263201,0.3255898411363124,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble,Accuracy,1000,0.95,0.41285081240768096,0.4623338257016248,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble,Macro_F1,1000,0.95,0.33692186197932256,0.4330764081812112,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble,Weighted_F1,1000,0.95,0.40731036496002976,0.4573847312826549,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble,Balanced_Accuracy,1000,0.95,0.328134779821633,0.4455678946112619,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,1D-CNN Model,Accuracy,1000,0.95,0.8696969696969697,0.9151893939393939,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,1D-CNN Model,Macro_F1,1000,0.95,0.8695773151077303,0.91507226289354,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,1D-CNN Model,Weighted_F1,1000,0.95,0.8695773151077302,0.91507226289354,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,1D-CNN Model,Balanced_Accuracy,1000,0.95,0.8696969696969699,0.915189393939394,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net,Accuracy,1000,0.95,0.8863636363636364,0.927310606060606,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net,Macro_F1,1000,0.95,0.8847754040153907,0.9273370710632656,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net,Weighted_F1,1000,0.95,0.8847754040153906,0.9273370710632655,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net,Balanced_Accuracy,1000,0.95,0.8863636363636362,0.9273106060606061,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble,Accuracy,1000,0.95,0.8303030303030303,0.8818181818181818,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble,Macro_F1,1000,0.95,0.8312549955490205,0.8832487648271341,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble,Weighted_F1,1000,0.95,0.8312549955490204,0.883248764827134,Stratified nonparametric bootstrap from confusion-matrix rows
+Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble,Balanced_Accuracy,1000,0.95,0.8303030303030304,0.881818181818182,Stratified nonparametric bootstrap from confusion-matrix rows

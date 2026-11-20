@@ -1,0 +1,5 @@
+Test,Status,Reason
+Paired t-test,Unavailable,No per-sample paired correctness vectors or repeated runs.
+Wilcoxon signed-rank,Unavailable,No paired per-sample or per-fold metrics.
+Friedman test,Unavailable,No repeated fold/seed scores across methods.
+McNemar test,Unavailable,No paired per-sample predictions for discordant-pair counts.

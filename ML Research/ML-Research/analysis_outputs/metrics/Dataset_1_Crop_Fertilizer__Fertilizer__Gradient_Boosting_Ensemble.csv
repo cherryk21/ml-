@@ -1,0 +1,2 @@
+Paper,Dataset,Target,Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+Paper 3 - Indian Agricultural Soil Classifier,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble,0.548,0.648,0.6955,0.6585

@@ -1,0 +1,2 @@
+Paper,Dataset,Target,Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+Paper 1 - 1D-CNN Soil Classifier,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model,0.4025,0.3375,0.5931,0.3814

@@ -1,0 +1,2 @@
+Paper,Dataset,Target,Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+Paper 2 - Sentinel Data Fusion Network,Dataset 2 (Crop Recommendation),Crop,Dual-Branch Fusion Net,0.9833,0.9842,0.9833,0.9833

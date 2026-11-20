@@ -1,0 +1,2 @@
+Contribution,Accuracy,Balanced_Accuracy,Macro_F1,Weighted_F1,MCC,ROC_AUC,Training_Seconds,Inference_Seconds
+C2,0.557607,0.552233,0.543671,0.555798,0.477268,0.94092,6.822879,0.023599

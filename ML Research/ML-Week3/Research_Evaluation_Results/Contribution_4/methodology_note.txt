@@ -1,0 +1,1 @@
+C4 combines uncertainty-aware fusion to improve adaptive reliability. The framework uses the original saved uncertainty and fusion outputs without fabricating missing curves.

@@ -1,0 +1,5 @@
+Requested_Graph,Status,Reason
+Noise robustness curves,Unavailable,No predictions from the requested noise conditions are saved.
+Accuracy vs noise level,Unavailable,No predictions from the requested noise conditions are saved.
+Macro F1 vs noise level,Unavailable,No predictions from the requested noise conditions are saved.
+Performance degradation curves,Unavailable,No predictions from the requested noise conditions are saved.

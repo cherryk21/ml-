@@ -1,0 +1,10 @@
+Dataset,Target,Paper,Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1,Rank_by_Macro_F1
+Dataset 1 (Crop & Fertilizer),Crop,Paper 1 - 1D-CNN Soil Classifier,1D-CNN Model,0.963072,0.930584,0.910438,0.918241,1
+Dataset 1 (Crop & Fertilizer),Crop,Paper 3 - Indian Agricultural Soil Classifier,Gradient Boosting Ensemble,0.94387,0.863681,0.850311,0.85475,2
+Dataset 1 (Crop & Fertilizer),Crop,Paper 2 - Sentinel Data Fusion Network,Dual-Branch Fusion Net,0.918759,0.856228,0.838068,0.836826,3
+Dataset 1 (Crop & Fertilizer),Fertilizer,Paper 1 - 1D-CNN Soil Classifier,1D-CNN Model,0.5,0.422445,0.391753,0.393035,1
+Dataset 1 (Crop & Fertilizer),Fertilizer,Paper 3 - Indian Agricultural Soil Classifier,Gradient Boosting Ensemble,0.437962,0.407828,0.387938,0.386321,2
+Dataset 1 (Crop & Fertilizer),Fertilizer,Paper 2 - Sentinel Data Fusion Network,Dual-Branch Fusion Net,0.426883,0.283652,0.295639,0.281594,3
+Dataset 2 (Crop Recommendation),label,Paper 2 - Sentinel Data Fusion Network,Dual-Branch Fusion Net,0.907576,0.911705,0.907576,0.90729,1
+Dataset 2 (Crop Recommendation),label,Paper 1 - 1D-CNN Soil Classifier,1D-CNN Model,0.893939,0.89917,0.893939,0.893531,2
+Dataset 2 (Crop Recommendation),label,Paper 3 - Indian Agricultural Soil Classifier,Gradient Boosting Ensemble,0.856061,0.862002,0.856061,0.857078,3

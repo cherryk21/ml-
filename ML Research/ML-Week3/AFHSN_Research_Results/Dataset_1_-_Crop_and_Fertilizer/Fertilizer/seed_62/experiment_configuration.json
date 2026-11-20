@@ -1,0 +1,15 @@
+{
+    "seed": 62,
+    "epochs": 150,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "train_samples": 2888,
+    "validation_samples": 722,
+    "test_samples": 903,
+    "class_count": 19,
+    "fusion_weights": {
+        "neural": 0.25,
+        "xgboost": 0.1,
+        "extra_trees": 0.65
+    }
+}

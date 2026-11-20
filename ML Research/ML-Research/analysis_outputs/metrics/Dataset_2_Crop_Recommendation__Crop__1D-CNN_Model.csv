@@ -1,0 +1,2 @@
+Paper,Dataset,Target,Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+Paper 1 - 1D-CNN Soil Classifier,Dataset 2 (Crop Recommendation),Crop,1D-CNN Model,0.9939,0.9944,0.9939,0.9939

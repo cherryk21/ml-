@@ -1,0 +1,4 @@
+Group,NN_weight,XGBoost_weight,ExtraTrees_weight,Validation_Macro_F1
+Global validation,0.0,0.2,0.8,0.9884297520661157
+High uncertainty,0.0,0.2,0.8,
+Low uncertainty,0.0,0.0,1.0,

@@ -1,0 +1,58 @@
+Class,Support,Precision,Recall_Sensitivity,F1_Score,Specificity,Dataset_Key,Dataset,Target,Model
+Cotton,195,0.9742268041237113,0.9692307692307692,0.9717223650385604,0.9956859361518551,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Ginger,38,0.926829268292683,1.0,0.9620253164556963,0.9977203647416414,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Gram,23,0.8333333333333334,0.43478260869565216,0.5714285714285714,0.9984973703981969,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Grapes,37,1.0,0.918918918918919,0.9577464788732395,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Groundnut,53,0.7580645161290323,0.8867924528301887,0.8173913043478261,0.9884704073789393,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Jowar,118,0.8839285714285714,0.8389830508474576,0.8608695652173912,0.9894822006472492,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Maize,105,0.9423076923076923,0.9333333333333333,0.937799043062201,0.9951961569255404,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Masoor,4,0.75,0.75,0.75,0.9992592592592593,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Moong,30,0.8333333333333334,0.6666666666666666,0.7407407407407408,0.9969788519637462,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Rice,93,0.90625,0.9354838709677419,0.9206349206349206,0.992862807295797,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Soybean,13,0.6842105263157895,1.0,0.8125000000000001,0.9955257270693513,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Sugarcane,303,0.9837662337662337,1.0,0.9918166939443536,0.9952426260704091,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Tur,38,1.0,0.8157894736842105,0.898550724637681,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Turmeric,16,0.8333333333333334,0.625,0.7142857142857143,0.9985052316890882,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Urad,30,0.4375,0.7,0.5384615384615384,0.979607250755287,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Wheat,258,0.9525691699604744,0.9341085271317829,0.9432485322896281,0.9890510948905109,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+10:10:10 NPK,15,0.3333333333333333,0.4,0.3636363636363636,0.9910380881254668,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+10:26:26 NPK,47,0.36363636363636365,0.5106382978723404,0.4247787610619469,0.9678653404743688,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+12:32:16 NPK,32,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+13:32:26 NPK,20,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+18:46:00 NPK,2,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+19:19:19 NPK,144,0.5571428571428572,0.8125,0.6610169491525424,0.9231404958677686,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+20:20:20 NPK,4,0.0,0.0,0.0,0.9992592592592593,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+50:26:26 NPK,37,0.42105263157894735,0.43243243243243246,0.4266666666666667,0.9832953682611997,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Ammonium Sulphate,15,0.5555555555555556,0.3333333333333333,0.4166666666666667,0.9970126960418223,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Chilated Micronutrient,32,0.47368421052631576,0.5625,0.5142857142857142,0.9848714069591528,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+DAP,200,0.35714285714285715,0.275,0.3107344632768362,0.91421143847487,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Ferrous Sulphate,20,0.3103448275862069,0.45,0.3673469387755102,0.9850074962518741,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Hydrated Lime,8,0.5,0.25,0.3333333333333333,0.9985141158989599,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+MOP,171,0.44285714285714284,0.36257309941520466,0.39871382636655944,0.9340659340659341,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Magnesium Sulphate,65,0.25961538461538464,0.4153846153846154,0.31952662721893493,0.9402637703646237,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+SSP,125,0.35294117647058826,0.336,0.3442622950819672,0.9373474369406021,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Sulphur,2,0.0,0.0,0.0,0.9985207100591716,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Urea,409,0.46208530805687204,0.4767726161369193,0.4693140794223827,0.7597883597883598,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+White Potash,6,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+apple,30,1.0,1.0,1.0,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+banana,30,0.9310344827586207,0.9,0.9152542372881356,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+blackgram,30,0.9259259259259259,0.8333333333333334,0.8771929824561403,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+chickpea,30,1.0,1.0,1.0,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+coconut,30,0.9333333333333333,0.9333333333333333,0.9333333333333333,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+coffee,30,1.0,0.9666666666666667,0.983050847457627,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+cotton,30,0.8125,0.8666666666666667,0.8387096774193549,0.9904761904761905,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+grapes,30,1.0,1.0,1.0,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+jute,30,0.896551724137931,0.8666666666666667,0.8813559322033899,0.9952380952380953,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+kidneybeans,30,0.9655172413793104,0.9333333333333333,0.9491525423728815,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+lentil,30,0.8125,0.8666666666666667,0.8387096774193549,0.9904761904761905,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+maize,30,0.896551724137931,0.8666666666666667,0.8813559322033899,0.9952380952380953,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+mango,30,0.9655172413793104,0.9333333333333333,0.9491525423728815,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+mothbeans,30,0.8787878787878788,0.9666666666666667,0.9206349206349207,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+mungbean,30,0.9259259259259259,0.8333333333333334,0.8771929824561403,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+muskmelon,30,0.7837837837837838,0.9666666666666667,0.8656716417910447,0.9873015873015873,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+orange,30,0.9583333333333334,0.7666666666666667,0.8518518518518519,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+papaya,30,0.8333333333333334,0.8333333333333334,0.8333333333333334,0.9920634920634921,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+pigeonpeas,30,0.9333333333333333,0.9333333333333333,0.9333333333333333,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+pomegranate,30,0.8055555555555556,0.9666666666666667,0.8787878787878789,0.9888888888888889,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+rice,30,0.8823529411764706,1.0,0.9375,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+watermelon,30,0.9166666666666666,0.7333333333333333,0.8148148148148148,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net

@@ -1,0 +1,7 @@
+Feature,Lower_Bound,Upper_Bound,Outlier_Count
+Nitrogen,-37.5,222.5,0
+Phosphorus,2.5,102.5,0
+Potassium,-12.5,127.5,495
+pH,4.5,8.5,0
+Rainfall,0.0,1600.0,9
+Temperature,5.0,45.0,0

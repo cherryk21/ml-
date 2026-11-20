@@ -1,0 +1,28 @@
+              precision    recall  f1-score   support
+
+       apple       0.97      1.00      0.98        30
+      banana       1.00      1.00      1.00        30
+   blackgram       1.00      0.97      0.98        30
+    chickpea       1.00      1.00      1.00        30
+     coconut       1.00      1.00      1.00        30
+      coffee       1.00      1.00      1.00        30
+      cotton       1.00      1.00      1.00        30
+      grapes       1.00      0.97      0.98        30
+        jute       0.97      1.00      0.98        30
+ kidneybeans       1.00      1.00      1.00        30
+      lentil       1.00      0.97      0.98        30
+       maize       1.00      1.00      1.00        30
+       mango       1.00      1.00      1.00        30
+   mothbeans       0.97      1.00      0.98        30
+    mungbean       0.97      1.00      0.98        30
+   muskmelon       1.00      1.00      1.00        30
+      orange       1.00      1.00      1.00        30
+      papaya       1.00      1.00      1.00        30
+  pigeonpeas       1.00      1.00      1.00        30
+ pomegranate       1.00      1.00      1.00        30
+        rice       1.00      0.97      0.98        30
+  watermelon       1.00      1.00      1.00        30
+
+    accuracy                           0.99       660
+   macro avg       0.99      0.99      0.99       660
+weighted avg       0.99      0.99      0.99       660

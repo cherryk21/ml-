@@ -1,0 +1,9 @@
+Dataset,Target,Model,Noise_Level_Percentage,Accuracy,Macro_F1,Balanced_Accuracy
+Dataset 1 (Crop & Fertilizer),Fertilizer,Contribution 4 (MC-Dropout Robust Net),0,0.5908419497784343,0.5314026564474437,0.5986449025226761
+Dataset 1 (Crop & Fertilizer),Fertilizer,Contribution 4 (MC-Dropout Robust Net),10,0.5790251107828656,0.499644149527625,0.5487226927592451
+Dataset 1 (Crop & Fertilizer),Fertilizer,Contribution 4 (MC-Dropout Robust Net),20,0.5317577548005908,0.4486590804608851,0.486073321003566
+Dataset 1 (Crop & Fertilizer),Fertilizer,Contribution 4 (MC-Dropout Robust Net),30,0.46602658788774004,0.39551673755752575,0.4243608203076442
+Dataset 2 (Crop Recommendation),label,Contribution 4 (MC-Dropout Robust Net),0,0.9893939393939394,0.9893238041900823,0.9893939393939392
+Dataset 2 (Crop Recommendation),label,Contribution 4 (MC-Dropout Robust Net),10,0.9848484848484849,0.98479022877588,0.9848484848484849
+Dataset 2 (Crop Recommendation),label,Contribution 4 (MC-Dropout Robust Net),20,0.9757575757575757,0.9756882302172034,0.9757575757575757
+Dataset 2 (Crop Recommendation),label,Contribution 4 (MC-Dropout Robust Net),30,0.9696969696969697,0.9694911325511485,0.9696969696969696

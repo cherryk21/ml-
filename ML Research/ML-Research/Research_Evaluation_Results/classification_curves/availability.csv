@@ -1,0 +1,5 @@
+Requested_Graph,Status,Reason
+One-vs-rest / macro / micro ROC curves,Generated,Models retrained; macro-average OVR ROC plotted.
+Precision-recall / macro / micro curves,Generated,Models retrained; macro-average PR curves plotted.
+Calibration / Reliability curves,Generated,Models retrained; reliability diagrams plotted.
+Recall versus probability threshold curves,Generated,Models retrained; macro-average one-vs-rest recall plotted across thresholds.

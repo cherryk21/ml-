@@ -1,0 +1,172 @@
+Class,Support,Precision,Recall_Sensitivity,F1_Score,Specificity,Dataset_Key,Dataset,Target,Model
+Cotton,195,1.0,1.0,1.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Ginger,38,1.0,1.0,1.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Gram,23,0.8333333333333334,0.6521739130434783,0.7317073170731708,0.9977460555972952,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Grapes,37,1.0,1.0,1.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Groundnut,53,0.78125,0.9433962264150944,0.8547008547008547,0.98923904688701,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Jowar,118,0.954954954954955,0.8983050847457628,0.925764192139738,0.9959546925566343,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Maize,105,0.9279279279279279,0.9809523809523809,0.9537037037037037,0.9935948759007206,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Masoor,4,0.75,0.75,0.75,0.9992592592592593,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Moong,30,0.9666666666666667,0.9666666666666667,0.9666666666666667,0.9992447129909365,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Rice,93,0.968421052631579,0.989247311827957,0.9787234042553192,0.9976209357652657,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Soybean,13,0.9166666666666666,0.8461538461538461,0.8799999999999999,0.9992542878448919,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Sugarcane,303,1.0,1.0,1.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Tur,38,0.95,1.0,0.9743589743589743,0.9984802431610942,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Turmeric,16,1.0,0.875,0.9333333333333333,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Urad,30,0.875,0.7,0.7777777777777777,0.9977341389728097,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Wheat,258,0.9651162790697675,0.9651162790697675,0.9651162790697675,0.9917883211678832,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,1D-CNN Model
+Cotton,195,0.9742268041237113,0.9692307692307692,0.9717223650385604,0.9956859361518551,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Ginger,38,0.926829268292683,1.0,0.9620253164556963,0.9977203647416414,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Gram,23,0.8333333333333334,0.43478260869565216,0.5714285714285714,0.9984973703981969,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Grapes,37,1.0,0.918918918918919,0.9577464788732395,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Groundnut,53,0.7580645161290323,0.8867924528301887,0.8173913043478261,0.9884704073789393,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Jowar,118,0.8839285714285714,0.8389830508474576,0.8608695652173912,0.9894822006472492,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Maize,105,0.9423076923076923,0.9333333333333333,0.937799043062201,0.9951961569255404,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Masoor,4,0.75,0.75,0.75,0.9992592592592593,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Moong,30,0.8333333333333334,0.6666666666666666,0.7407407407407408,0.9969788519637462,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Rice,93,0.90625,0.9354838709677419,0.9206349206349206,0.992862807295797,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Soybean,13,0.6842105263157895,1.0,0.8125000000000001,0.9955257270693513,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Sugarcane,303,0.9837662337662337,1.0,0.9918166939443536,0.9952426260704091,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Tur,38,1.0,0.8157894736842105,0.898550724637681,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Turmeric,16,0.8333333333333334,0.625,0.7142857142857143,0.9985052316890882,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Urad,30,0.4375,0.7,0.5384615384615384,0.979607250755287,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Wheat,258,0.9525691699604744,0.9341085271317829,0.9432485322896281,0.9890510948905109,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Dual-Branch Fusion Net
+Cotton,195,0.9897435897435898,0.9897435897435898,0.9897435897435898,0.998274374460742,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Ginger,38,1.0,1.0,1.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Gram,23,0.5,0.34782608695652173,0.41025641025641024,0.9939894815927873,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Grapes,37,1.0,1.0,1.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Groundnut,53,0.9148936170212766,0.8113207547169812,0.8600000000000001,0.9969254419677172,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Jowar,118,0.8421052631578947,0.9491525423728814,0.8924302788844621,0.9830097087378641,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Maize,105,0.9428571428571428,0.9428571428571428,0.9428571428571428,0.9951961569255404,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Masoor,4,0.5,0.5,0.5,0.9985185185185185,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Moong,30,0.92,0.7666666666666667,0.8363636363636363,0.9984894259818731,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Rice,93,0.9574468085106383,0.967741935483871,0.9625668449197862,0.9968279143536876,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Soybean,13,0.7142857142857143,0.7692307692307693,0.7407407407407408,0.9970171513795675,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Sugarcane,303,0.9967105263157895,1.0,0.9983525535420099,0.9990485252140818,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Tur,38,0.9444444444444444,0.8947368421052632,0.918918918918919,0.9984802431610942,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Turmeric,16,0.9333333333333333,0.875,0.9032258064516129,0.9992526158445441,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Urad,30,0.6944444444444444,0.8333333333333334,0.7575757575757577,0.9916918429003021,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+Wheat,258,0.9686274509803922,0.9573643410852714,0.962962962962963,0.9927007299270073,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Crop,Gradient Boosting Ensemble
+10:10:10 NPK,15,0.48148148148148145,0.8666666666666667,0.6190476190476191,0.9895444361463779,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+10:26:26 NPK,47,0.5555555555555556,0.2127659574468085,0.3076923076923077,0.9938791124713083,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+12:32:16 NPK,32,0.3125,0.15625,0.20833333333333334,0.9916792738275341,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+13:32:26 NPK,20,0.56,0.7,0.6222222222222222,0.9917541229385307,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+18:46:00 NPK,2,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+19:19:19 NPK,144,0.675,0.5625,0.6136363636363636,0.9677685950413223,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+20:20:20 NPK,4,0.0,0.0,0.0,0.9992592592592593,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+50:26:26 NPK,37,0.71875,0.6216216216216216,0.6666666666666667,0.9931662870159453,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+Ammonium Sulphate,15,0.6666666666666666,0.5333333333333333,0.5925925925925926,0.9970126960418223,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+Chilated Micronutrient,32,0.4838709677419355,0.46875,0.47619047619047616,0.9878971255673222,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+DAP,200,0.5393258426966292,0.48,0.5079365079365079,0.92894280762565,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+Ferrous Sulphate,20,0.5454545454545454,0.3,0.3870967741935483,0.9962518740629686,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+Hydrated Lime,8,0.42857142857142855,0.375,0.39999999999999997,0.9970282317979198,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+MOP,171,0.5060975609756098,0.4853801169590643,0.49552238805970145,0.9315300084530854,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+Magnesium Sulphate,65,0.36470588235294116,0.47692307692307695,0.41333333333333333,0.9581070597362297,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+SSP,125,0.35294117647058826,0.48,0.4067796610169491,0.9104963384865744,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+Sulphur,2,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+Urea,409,0.5022026431718062,0.5574572127139364,0.5283893395133257,0.7608465608465609,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+White Potash,6,0.3333333333333333,0.16666666666666666,0.2222222222222222,0.9985163204747775,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,1D-CNN Model
+10:10:10 NPK,15,0.3333333333333333,0.4,0.3636363636363636,0.9910380881254668,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+10:26:26 NPK,47,0.36363636363636365,0.5106382978723404,0.4247787610619469,0.9678653404743688,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+12:32:16 NPK,32,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+13:32:26 NPK,20,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+18:46:00 NPK,2,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+19:19:19 NPK,144,0.5571428571428572,0.8125,0.6610169491525424,0.9231404958677686,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+20:20:20 NPK,4,0.0,0.0,0.0,0.9992592592592593,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+50:26:26 NPK,37,0.42105263157894735,0.43243243243243246,0.4266666666666667,0.9832953682611997,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Ammonium Sulphate,15,0.5555555555555556,0.3333333333333333,0.4166666666666667,0.9970126960418223,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Chilated Micronutrient,32,0.47368421052631576,0.5625,0.5142857142857142,0.9848714069591528,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+DAP,200,0.35714285714285715,0.275,0.3107344632768362,0.91421143847487,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Ferrous Sulphate,20,0.3103448275862069,0.45,0.3673469387755102,0.9850074962518741,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Hydrated Lime,8,0.5,0.25,0.3333333333333333,0.9985141158989599,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+MOP,171,0.44285714285714284,0.36257309941520466,0.39871382636655944,0.9340659340659341,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Magnesium Sulphate,65,0.25961538461538464,0.4153846153846154,0.31952662721893493,0.9402637703646237,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+SSP,125,0.35294117647058826,0.336,0.3442622950819672,0.9373474369406021,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Sulphur,2,0.0,0.0,0.0,0.9985207100591716,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+Urea,409,0.46208530805687204,0.4767726161369193,0.4693140794223827,0.7597883597883598,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+White Potash,6,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Dual-Branch Fusion Net
+10:10:10 NPK,15,0.4166666666666667,0.3333333333333333,0.3703703703703704,0.9947722180731889,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+10:26:26 NPK,47,0.5,0.23404255319148937,0.31884057971014496,0.991583779648049,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+12:32:16 NPK,32,0.36363636363636365,0.25,0.2962962962962963,0.989409984871407,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+13:32:26 NPK,20,0.5,0.5,0.5,0.992503748125937,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+18:46:00 NPK,2,0.0,0.0,0.0,1.0,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+19:19:19 NPK,144,0.5238095238095238,0.5347222222222222,0.5292096219931272,0.9421487603305785,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+20:20:20 NPK,4,0.2857142857142857,0.5,0.36363636363636365,0.9962962962962963,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+50:26:26 NPK,37,0.6071428571428571,0.4594594594594595,0.5230769230769231,0.9916476841305999,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+Ammonium Sulphate,15,0.6666666666666666,0.5333333333333333,0.5925925925925926,0.9970126960418223,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+Chilated Micronutrient,32,0.4482758620689655,0.40625,0.4262295081967213,0.9878971255673222,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+DAP,200,0.44654088050314467,0.355,0.39554317548746515,0.9237435008665511,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+Ferrous Sulphate,20,0.38461538461538464,0.5,0.4347826086956522,0.9880059970014993,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+Hydrated Lime,8,0.4,0.25,0.3076923076923077,0.9977711738484398,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+MOP,171,0.4583333333333333,0.38596491228070173,0.419047619047619,0.9340659340659341,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+Magnesium Sulphate,65,0.4027777777777778,0.4461538461538462,0.4233576642335767,0.9666408068269977,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+SSP,125,0.3140495867768595,0.304,0.3089430894308943,0.9324654190398698,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+Sulphur,2,0.2,0.5,0.28571428571428575,0.9970414201183432,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+Urea,409,0.4305019305019305,0.5452322738386308,0.4811218985976267,0.6878306878306878,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+White Potash,6,0.4,0.3333333333333333,0.3636363636363636,0.9977744807121661,Dataset_1_Crop_Fertilizer,Dataset 1 (Crop & Fertilizer),Fertilizer,Gradient Boosting Ensemble
+apple,30,1.0,0.8666666666666667,0.9285714285714286,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+banana,30,0.9642857142857143,0.9,0.9310344827586207,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+blackgram,30,0.9545454545454546,0.7,0.8076923076923077,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+chickpea,30,1.0,1.0,1.0,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+coconut,30,0.9310344827586207,0.9,0.9152542372881356,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+coffee,30,0.9090909090909091,1.0,0.9523809523809523,0.9952380952380953,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+cotton,30,0.9333333333333333,0.9333333333333333,0.9333333333333333,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+grapes,30,0.8823529411764706,1.0,0.9375,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+jute,30,0.8,0.8,0.8000000000000002,0.9904761904761905,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+kidneybeans,30,0.967741935483871,1.0,0.9836065573770492,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+lentil,30,0.75,0.9,0.8181818181818182,0.9857142857142858,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+maize,30,0.9310344827586207,0.9,0.9152542372881356,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+mango,30,0.8285714285714286,0.9666666666666667,0.8923076923076922,0.9904761904761905,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+mothbeans,30,0.9259259259259259,0.8333333333333334,0.8771929824561403,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+mungbean,30,0.8387096774193549,0.8666666666666667,0.8524590163934426,0.9920634920634921,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+muskmelon,30,0.8055555555555556,0.9666666666666667,0.8787878787878789,0.9888888888888889,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+orange,30,0.8620689655172413,0.8333333333333334,0.847457627118644,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+papaya,30,0.8333333333333334,0.8333333333333334,0.8333333333333334,0.9920634920634921,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+pigeonpeas,30,0.9655172413793104,0.9333333333333333,0.9491525423728815,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+pomegranate,30,0.84375,0.9,0.870967741935484,0.9920634920634921,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+rice,30,0.896551724137931,0.8666666666666667,0.8813559322033899,0.9952380952380953,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+watermelon,30,0.9583333333333334,0.7666666666666667,0.8518518518518519,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,1D-CNN Model
+apple,30,1.0,1.0,1.0,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+banana,30,0.9310344827586207,0.9,0.9152542372881356,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+blackgram,30,0.9259259259259259,0.8333333333333334,0.8771929824561403,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+chickpea,30,1.0,1.0,1.0,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+coconut,30,0.9333333333333333,0.9333333333333333,0.9333333333333333,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+coffee,30,1.0,0.9666666666666667,0.983050847457627,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+cotton,30,0.8125,0.8666666666666667,0.8387096774193549,0.9904761904761905,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+grapes,30,1.0,1.0,1.0,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+jute,30,0.896551724137931,0.8666666666666667,0.8813559322033899,0.9952380952380953,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+kidneybeans,30,0.9655172413793104,0.9333333333333333,0.9491525423728815,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+lentil,30,0.8125,0.8666666666666667,0.8387096774193549,0.9904761904761905,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+maize,30,0.896551724137931,0.8666666666666667,0.8813559322033899,0.9952380952380953,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+mango,30,0.9655172413793104,0.9333333333333333,0.9491525423728815,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+mothbeans,30,0.8787878787878788,0.9666666666666667,0.9206349206349207,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+mungbean,30,0.9259259259259259,0.8333333333333334,0.8771929824561403,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+muskmelon,30,0.7837837837837838,0.9666666666666667,0.8656716417910447,0.9873015873015873,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+orange,30,0.9583333333333334,0.7666666666666667,0.8518518518518519,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+papaya,30,0.8333333333333334,0.8333333333333334,0.8333333333333334,0.9920634920634921,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+pigeonpeas,30,0.9333333333333333,0.9333333333333333,0.9333333333333333,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+pomegranate,30,0.8055555555555556,0.9666666666666667,0.8787878787878789,0.9888888888888889,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+rice,30,0.8823529411764706,1.0,0.9375,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+watermelon,30,0.9166666666666666,0.7333333333333333,0.8148148148148148,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Dual-Branch Fusion Net
+apple,30,0.9642857142857143,0.9,0.9310344827586207,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+banana,30,0.9333333333333333,0.9333333333333333,0.9333333333333333,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+blackgram,30,0.7666666666666667,0.7666666666666667,0.7666666666666667,0.9888888888888889,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+chickpea,30,1.0,0.9666666666666667,0.983050847457627,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+coconut,30,0.9285714285714286,0.8666666666666667,0.896551724137931,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+coffee,30,0.9583333333333334,0.7666666666666667,0.8518518518518519,0.9984126984126984,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+cotton,30,0.9230769230769231,0.8,0.8571428571428571,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+grapes,30,0.90625,0.9666666666666667,0.9354838709677419,0.9952380952380953,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+jute,30,0.6756756756756757,0.8333333333333334,0.746268656716418,0.9809523809523809,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+kidneybeans,30,1.0,1.0,1.0,1.0,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+lentil,30,0.7352941176470589,0.8333333333333334,0.78125,0.9857142857142858,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+maize,30,0.7428571428571429,0.8666666666666667,0.8,0.9857142857142858,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+mango,30,0.8928571428571429,0.8333333333333334,0.8620689655172413,0.9952380952380953,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+mothbeans,30,0.8571428571428571,0.8,0.8275862068965518,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+mungbean,30,0.8620689655172413,0.8333333333333334,0.847457627118644,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+muskmelon,30,0.8571428571428571,0.8,0.8275862068965518,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+orange,30,0.8571428571428571,0.8,0.8275862068965518,0.9936507936507937,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+papaya,30,0.7931034482758621,0.7666666666666667,0.7796610169491527,0.9904761904761905,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+pigeonpeas,30,0.9354838709677419,0.9666666666666667,0.9508196721311476,0.9968253968253968,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+pomegranate,30,0.7941176470588235,0.9,0.84375,0.9888888888888889,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+rice,30,0.7741935483870968,0.8,0.7868852459016393,0.9888888888888889,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble
+watermelon,30,0.8064516129032258,0.8333333333333334,0.819672131147541,0.9904761904761905,Dataset_2_Crop_Recommendation,Dataset 2 (Crop Recommendation),label,Gradient Boosting Ensemble

@@ -1,0 +1,25 @@
+                        precision    recall  f1-score   support
+
+          10:10:10 NPK       0.69      0.73      0.71        15
+          10:26:26 NPK       0.91      0.87      0.89        47
+          12:32:16 NPK       0.96      0.69      0.80        32
+          13:32:26 NPK       1.00      1.00      1.00        20
+          18:46:00 NPK       0.00      0.00      0.00         2
+          19:19:19 NPK       0.84      0.88      0.86       144
+          20:20:20 NPK       1.00      0.50      0.67         4
+          50:26:26 NPK       0.97      0.78      0.87        37
+     Ammonium Sulphate       0.59      0.67      0.62        15
+Chilated Micronutrient       0.70      0.81      0.75        32
+                   DAP       0.90      0.92      0.91       200
+      Ferrous Sulphate       0.84      0.80      0.82        20
+         Hydrated Lime       0.60      0.75      0.67         8
+                   MOP       0.94      0.83      0.88       171
+    Magnesium Sulphate       0.86      0.92      0.89        65
+                   SSP       0.81      0.76      0.79       125
+               Sulphur       0.00      0.00      0.00         2
+                  Urea       0.81      0.84      0.82       409
+          White Potash       0.33      0.50      0.40         6
+
+              accuracy                           0.84      1354
+             macro avg       0.72      0.70      0.70      1354
+          weighted avg       0.85      0.84      0.84      1354

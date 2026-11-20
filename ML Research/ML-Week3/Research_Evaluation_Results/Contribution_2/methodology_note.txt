@@ -1,0 +1,1 @@
+C2 adds crop-conditioned features using crop probability conditioning. The evaluation reuses the saved experimental results and does not synthetic retraining history.
